@@ -1,0 +1,24 @@
+.chevron {
+  fill: var(--primary-gray-500);
+}
+
+.today {
+  border-radius: 100%;
+  color: var(--primary-white);
+  background-color: var(--primary-gray-300);
+}
+
+.selected {
+  border-radius: 100%;
+  color: var(--primary-white);
+  background-color: var(--primary-gray-500);
+}
+
+.day {
+  border-radius: 100%;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.day:hover {
+  background-color: var(--primary-gray-300);
+}

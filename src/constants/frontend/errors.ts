@@ -1,0 +1,9 @@
+const ErrorCode = {
+  CREATE_EVENT: "CREATE_EVENT",
+  UPDATE_EVENT: "UPDATE_EVENT",
+  DELETE_EVENT: "DELETE_EVENT",
+  MOVE_EVENT: "MOVE_EVENT",
+  RESIZE_EVENT: "RESIZE_EVENT",
+};
+
+export default ErrorCode;

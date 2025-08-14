@@ -2,6 +2,8 @@
 
 A modern, interactive calendar application built with React, TypeScript, and Vite. This application allows users to create, manage, and visualize events in a clean and intuitive interface.
 
+<img width="1464" height="822" alt="Screenshot 2025-08-13 at 9 14 14 PM" src="https://github.com/user-attachments/assets/a4808184-5c61-4226-9cb0-47c4c5bb88f2" />
+
 ## Features
 
 - **Interactive Calendar**: View, create, and manage events in a user-friendly interface

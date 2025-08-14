@@ -1,0 +1,9 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.fc .fc-timegrid-slot {
+  height: 40px !important;
+}

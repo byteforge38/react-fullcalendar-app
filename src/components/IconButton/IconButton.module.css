@@ -1,0 +1,20 @@
+.container {
+  padding: 8px;
+  border-radius: 100%;
+  background-color: var(--primary-white);
+  border: 1px solid var(--primary-border-color);
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container:hover {
+  background-color: var(--primary-gray-100);
+}
+
+.container:active {
+  background-color: var(--primary-gray-200);
+}
+

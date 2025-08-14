@@ -1,0 +1,24 @@
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.eventContainer {
+  background-color: transparent;
+  border: none;
+  overflow: hidden;
+}
+
+.slotLabelContainer {
+  font-size: 10px;
+}
+
+.slotLaneContainer {
+  background-color: var(--primary-white);
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.slotLaneContainer:hover {
+  background-color: var(--primary-gray-100);
+}
